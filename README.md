@@ -4,11 +4,11 @@
 
 相关文档
 
-[电脑音箱有滋滋声怎么办？](https://jingyan.baidu.com/article/fea4511ad68e84b6ba91254a.html){:target="\_blank"}
+[电脑音箱有滋滋声怎么办？](https://jingyan.baidu.com/article/fea4511ad68e84b6ba91254a.html)
 
-[扬声器设备播放采样率](https://jingyan.baidu.com/article/a3f121e4cdcf40bd9052bb99.html){:target="\_blank"}
+[扬声器设备播放采样率](https://jingyan.baidu.com/article/a3f121e4cdcf40bd9052bb99.html)
 
-[windows 驱动安装](./windows%20驱动检查和安装.md){:target="\_blank"}
+[windows 驱动安装](./windows%20驱动检查和安装.md)
 
 ## 音频问题
 

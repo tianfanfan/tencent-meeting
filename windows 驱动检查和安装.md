@@ -1,6 +1,6 @@
 ## Windows 系统音频驱动版本
 
-[系统音频设置查看和修复](https://zhuanlan.zhihu.com/p/704273952){:target="\_blank"}
+[系统音频设置查看和修复](https://zhuanlan.zhihu.com/p/704273952)
 
 #### 音频驱动版本查看
 
