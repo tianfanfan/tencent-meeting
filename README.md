@@ -2,6 +2,14 @@
 
 会议中用户遇到的，大部分都是第三方软件或环境问题。
 
+相关文档
+
+[电脑音箱有滋滋声怎么办？](https://jingyan.baidu.com/article/fea4511ad68e84b6ba91254a.html)
+
+[扬声器设备播放采样率](https://jingyan.baidu.com/article/a3f121e4cdcf40bd9052bb99.html)
+
+[windows 驱动安装](./windows%20驱动检查和安装.md)
+
 ## 音频问题
 
 #### 音频扬声器无声
