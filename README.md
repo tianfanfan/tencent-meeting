@@ -28,6 +28,22 @@
 
 如果无声，则大概率设备驱动问题。
 
+##### windows 笔记本
+
+1. 检查是否是 小米，联系，华硕，华为 笔记本，是否系统自带以下软件
+
+   检查小米电脑管家，会议降噪功能，选择关闭。
+
+   检查联想电脑管家，AI 功能，降噪功能，选择关闭
+
+   检查华硕电脑管家 AI 降噪麦克风，选择关闭
+   [华硕电脑管家设置](https://www.asus.com.cn/support/faq/1045651/)
+   ![alt text](image-10.png)
+
+   华为电脑管家，AI 降噪软件，选择关闭
+   [华为电脑管家设置](https://consumer.huawei.com/cn/support/content/zh-cn15894562/)
+   ![alt text](image-11.png)
+
 ##### windows
 
 1. 尝试打开 windows 麦克风声音，或音量合成器观察是否被静音。部分品牌会自动静音某些软件。
