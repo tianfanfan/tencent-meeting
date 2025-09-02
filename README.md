@@ -147,8 +147,8 @@
 
 #### 人工入口
 
-![alt text](image-7.png)
+![人工入口步骤1](image-7.png)
 
-![alt text](image-8.png)
+![人工入口步骤2](image-8.png)
 
-![alt text](image-9.png)
+![人工入口步骤3](image-15.png)
