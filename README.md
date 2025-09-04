@@ -145,6 +145,22 @@
 
    使用测速工具检测![alt text](image-3.png)
 
+## 麦克风声音异常
+
+#### windows
+
+1. 收音是杂音，但是有些应用收音正常。或扬声器无声。
+
+   打开 windows 设置>声音>输入>麦克风，音量合成器，找到麦克风音量，检查是否音量过高或过低。
+
+   打开 windows 设置>声音>声音合成器，找到软件扬声器音量，检查是否音量过高或过低。
+
+   [音量合成，软件音不要过高](https://robotrs.lenovo.com.cn/ZmptY2NtYW5hZ2Vy/p4data/Rdata/Rfiles/349.html)
+
+   [输入音量](https://jingyan.baidu.com/article/6181c3e0baa17f542ff15300.html)
+
+   [检查音频麦克风阵列加强音是否过高](https://robotrs.lenovo.com.cn/ZmptY2NtYW5hZ2Vy/p4data/Rdata/Rfiles/38.html)
+
 ## Windows 系统音频驱动版本
 
 [系统音频设置查看和修复](https://zhuanlan.zhihu.com/p/704273952)
