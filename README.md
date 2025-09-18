@@ -46,6 +46,9 @@
 
 ##### windows
 
+在开始检查前，请先根据
+[微软官网，windows 中的声音或音频问题](https://support.microsoft.com/zh-cn/windows/%E4%BF%AE%E5%A4%8D-windows-%E4%B8%AD%E7%9A%84%E5%A3%B0%E9%9F%B3%E6%88%96%E9%9F%B3%E9%A2%91%E9%97%AE%E9%A2%98-73025246-b61c-40fb-671a-2535c7cd56c8#id0edd=windows_11)排除基本问题。
+
 1. 尝试打开 windows 麦克风声音，或音量合成器观察是否被静音。部分品牌会自动静音某些软件。
    ![alt text](image-5.png)
 
