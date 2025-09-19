@@ -130,6 +130,8 @@
 
 如果出现无声，可能是因为共享的那部分声音是非人声，音量被降低后，被认为是杂音噪音消除掉了。
 
+[共享时候，其他软件音变化设置](https://support.huaweicloud.com/faq-pc-welink/Meeting_PC11.html)
+
 ##### Android
 
 1. 重装软件
