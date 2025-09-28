@@ -1,6 +1,12 @@
 ## Windows 系统音频驱动版本
 
+可以直接参考 zhihu 专栏
+
 [系统音频设置查看和修复](https://zhuanlan.zhihu.com/p/704273952)
+[更新声卡驱动](https://zhuanlan.zhihu.com/p/573516678)
+[小象教学，重装声卡驱动](https://www.zhihu.com/question/474810921/answer/3359694150)
+
+---
 
 #### 麦克风增强级别
 
