@@ -44,6 +44,10 @@
    [华为电脑管家设置](https://consumer.huawei.com/cn/support/content/zh-cn15894562/)
    ![alt text](image-11.png)
 
+#### windows 10 独有的蓝牙问题
+
+[windows 10 蓝牙耳机不自动切换模式](https://zhuanlan.zhihu.com/p/661525333)
+
 ##### windows
 
 在开始检查前，请先根据
